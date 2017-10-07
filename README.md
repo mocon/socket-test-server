@@ -17,7 +17,7 @@ yarn
 
 ## Run server locally
 
-Run a local server with `nodemon`, restarting automatically when files are saved:
+Run a local server with `nodemon` on [localhost:8080](http://localhost:8080), restarting automatically when files are saved:
 
 ```
 yarn start

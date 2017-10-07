@@ -36,5 +36,5 @@ wss.on('connection', function connection(ws, req) {
 });
 
 server.listen(8080, function listening() {
-    console.log('Listening on %d'.green, server.address().port);
+    console.log('Listening on `http://localhost:%d`'.green, server.address().port);
 });
